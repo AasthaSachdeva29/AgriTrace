@@ -1,0 +1,5 @@
+python -m venv gradio-env
+.\gradio-env\Scripts\activate
+gradio
+google-generativeai
+python-dotenv 
